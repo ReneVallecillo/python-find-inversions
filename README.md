@@ -1,4 +1,4 @@
-python-mergesort
-================
+python-find-inversions
+======================
 
-Merge Sort Algorithm done in Python 
+Algorithm for finding the inversions in a given array of integers using merge-sort algorithm
